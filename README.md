@@ -73,8 +73,8 @@ https://github.com/V-Solanki03/Live-Sales-Monitoring-Dashboard
 
 ## 📬 Contact
 
-📎 LinkedIn: https://linkedin.com/in/YOUR-LINK  
-📧 Email: your-email@example.com  
+📎 LinkedIn: (https://www.linkedin.com/in/varun-solanki-/)
+📧 Email: solankivarun03@gmail.com 
 
 ---
 
