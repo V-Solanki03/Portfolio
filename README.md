@@ -14,8 +14,8 @@ Power BI • Excel • Data Cleaning • Data Modeling • DAX • KPI Reporting
 
 ---
 
-### 🔹 Customer Behaviour Dashboard
-**Objective:** Understand purchasing patterns and customer value segments.
+### 🔹 Customer Behaviour Insights to Increase Repeat Purchase
+**Objective:** Understand purchasing patterns and identify high-value customers to improve repeat sales.
 
 **Key Insights**
 - Identifies repeat vs new customers
@@ -23,10 +23,10 @@ Power BI • Excel • Data Cleaning • Data Modeling • DAX • KPI Reporting
 - Tracks purchase frequency and spending behavior
 
 **Business Value**
-Helps businesses improve retention strategies and increase repeat purchases.
+Helps businesses increase repeat purchases and improve customer retention.
 
 🔗 **Full Project:**  
-https://github.com/V-Solanki03/Customer-Behaviour-Power-BI
+https://github.com/V-Solanki03/Customer-Behaviour-Insights-to-Increase-Repeat-Purchase
 
 🖼 **Preview**
 ![Customer Behaviour Dashboard](customer-behaviour/dashboard.png)
@@ -64,7 +64,7 @@ https://github.com/V-Solanki03/Customer-Churn-End-to-End-Analysis
 Enables faster decision-making and performance tracking.
 
 🔗 **Full Project:**  
-https://github.com/V-Solanki03/live-sales-bi-dashboard
+https://github.com/V-Solanki03/Live-Sales-Monitoring-Dashboard
 
 🖼 **Preview**
 ![Sales Dashboard](live-sales-dashboard/sales-overview.png)
